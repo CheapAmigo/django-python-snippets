@@ -1,2 +1,2 @@
 # django-python-snippets
-ПОМОГИ БРАТ
+Пока помощь не нужна
